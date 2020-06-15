@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/FlixAndChill/static/js/main.bbd4b128.chunk.js",
+    "main.js.map": "/FlixAndChill/static/js/main.bbd4b128.chunk.js.map",
+    "runtime-main.js": "/FlixAndChill/static/js/runtime-main.74acecae.js",
+    "runtime-main.js.map": "/FlixAndChill/static/js/runtime-main.74acecae.js.map",
+    "static/js/2.21f9648a.chunk.js": "/FlixAndChill/static/js/2.21f9648a.chunk.js",
+    "static/js/2.21f9648a.chunk.js.map": "/FlixAndChill/static/js/2.21f9648a.chunk.js.map",
+    "index.html": "/FlixAndChill/index.html",
+    "precache-manifest.4db9f51d896dd6747d00dc380e9341fe.js": "/FlixAndChill/precache-manifest.4db9f51d896dd6747d00dc380e9341fe.js",
+    "service-worker.js": "/FlixAndChill/service-worker.js",
+    "static/js/2.21f9648a.chunk.js.LICENSE.txt": "/FlixAndChill/static/js/2.21f9648a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74acecae.js",
+    "static/js/2.21f9648a.chunk.js",
+    "static/js/main.bbd4b128.chunk.js"
+  ]
+}
